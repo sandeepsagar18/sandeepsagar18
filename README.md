@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sandeepsagar18
+- 👋 Hi, I’m @sandeepkumar18
 - 👀 I’m interested in ...web development    
 - 🌱 I’m currently learning ...web development and c programing
 - 💞️ I’m looking to collaborate on ...
